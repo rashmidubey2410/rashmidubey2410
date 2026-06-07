@@ -61,8 +61,7 @@ Member of **Tungsten Automation's AI Office** (AIOps vertical) — building and 
 
 - 🏢 AI Automation Specialist — **Tungsten Automation AI Office** (AIOps vertical)
 - 🌐 Working remotely with a cross-national European team
-- 📍 Hyderabad, India · Open to relocation (UK / EU) & Remote
-- 🎯 Targeting Senior AI Engineer / Agentic AI Engineer roles in UK & EU
+- 📍 Hyderabad, India 
 
 ---
 
