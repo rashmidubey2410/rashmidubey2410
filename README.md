@@ -2,7 +2,7 @@
 
 **AI Automation Specialist | Agentic AI · MCP · RAG · IDP · Azure**
 
-Member of **Tungsten Automation's AI Office** (AIOps vertical) — building and deploying production LLM systems at enterprise scale with a cross-national European team.
+Building and deploying production LLM systems at enterprise scale with a cross-national European team.
 
 ---
 
